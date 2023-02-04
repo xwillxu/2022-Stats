@@ -10,6 +10,6 @@
 
 ### Longest Streak In 2022: Febuary 11, 2022 - August 18, 2022
 ## Most Commits In A Single Day:
-### 🥇1. December
-### 🥈2.
+### 🥇1. December 30th: 47 Commits
+### 🥈2. December 31st:
 ### 🥉3.
