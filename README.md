@@ -12,4 +12,4 @@
 ## Most Commits In A Single Day:
 ### 🥇1. December 30th: 47 Commits
 ### 🥈2. December 31st: 21 Commits
-### 🥉3. March 28th: 
+### 🥉3. March 28th: 20 Commits
