@@ -14,4 +14,4 @@
 ### 🥈2. December 31st: 21 Commits
 ### 🥉3. March 28th: 20 Commits
 
-## That's all I'm going to show you
+## That's all I'm going to show you, Bye!
