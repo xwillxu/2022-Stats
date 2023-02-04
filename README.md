@@ -7,4 +7,9 @@
 ### 12%: Pull requests
 ### 84%: Commits
 ### Total Contibutions: 1,698 Contributions
-Longest Streak 2022 Febuary - 2022
+
+### Longest Streak In 2022: Febuary 11, 2022 - August 18, 2022
+## Most Commits In A Single Day:
+### 🥇1. December
+### 🥈2.
+### 🥉3.
